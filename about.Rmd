@@ -1,0 +1,21 @@
+---
+title: "Blog Den"
+description: |
+  Berisi informasi menarik terkait **Programming**, **Linux**, **Fisika Dasar** maupun **Kalkulus**.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Siapa saya
+Seorang pelajar yang tertarik belajar hal-hal baru
+
+# Materi yang saya gemari
+- Programming (Python)
+- Hal menarik terkait sistem operasi Linux
+- Materi Fisika Dasar
+- Materi Kalkulus
+
+# Media lain yang saya gunakan
+

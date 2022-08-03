@@ -1,0 +1,16 @@
+---
+title: "Post Pertama"
+description: |
+    Post pertama
+author: "Pandu Mulya"
+date: 08-03-2022
+output:
+    distill::distill_article:
+        self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Ini post pertama.

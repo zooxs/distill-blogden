@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-08-03-post-pertama/",
+    "title": "Post Pertama",
+    "description": "Post pertama",
+    "author": [
+      {
+        "name": "Pandu Mulya",
+        "url": {}
+      }
+    ],
+    "date": "2022-08-03",
+    "categories": [],
+    "contents": "\nIni post pertama.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-08-04T00:04:33+07:00",
+    "input_file": {}
+  }
+]

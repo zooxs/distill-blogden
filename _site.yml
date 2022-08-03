@@ -1,0 +1,16 @@
+name: "."
+title: "BlogDen"
+description: |
+  BlogDen
+output_dir: "_site"
+theme: theme.css
+navbar:
+  logo: img_parrent/blogden.png
+  right:
+    - text: "Beranda"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Tentang Saya"
+      href: about.html
+output: distill::distill_article

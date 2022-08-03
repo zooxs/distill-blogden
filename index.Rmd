@@ -1,0 +1,20 @@
+---
+title: "Pandu Mulya Muhammad Syah"
+image: "./img_parrent/photoden.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/pandu-mulya-muhammad-syah-3a6b1b22b/"
+  - label: GitHub
+    url: "https://github.com/zooxs/"
+  - label: Email
+    url: "mailto:zooxsjrto1@gmail.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Seorang pelajar yang memiliki ketertarikan di bidang **Fisika Dasar**, **Kalkulus**, **programming** dan sistem operasi berbasis **linux**. Berantusias berbagi pengalaman kepada pembaca.
