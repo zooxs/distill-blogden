@@ -1,4 +1,4 @@
-name: "."
+name: "BlogDen"
 title: "BlogDen"
 description: |
   BlogDen
@@ -14,3 +14,8 @@ navbar:
     - text: "Tentang Saya"
       href: about.html
 output: distill::distill_article
+base_url: https://blogden.netlify.app/
+collections:
+  posts:
+    disqus: BlogDen
+    share: [twitter, linkedin]

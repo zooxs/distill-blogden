@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>BlogDen</title>
+    <link>https://blogden.netlify.app/</link>
+    <atom:link href="https://blogden.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>BlogDen
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>5 Alasan Menggunakan Linux Sebagai Daily Driver</title>
+      <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
+      <link>https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver</link>
+      <description>Alasan menggunakan Linux sebagai Daily Driver</description>
+      <guid>https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver</guid>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver/../../img_parrent/linux.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Post Pertama</title>
+      <dc:creator>Pandu Mulya</dc:creator>
+      <link>https://blogden.netlify.app/posts/2022-08-03-post-pertama</link>
+      <description>Post pertama</description>
+      <guid>https://blogden.netlify.app/posts/2022-08-03-post-pertama</guid>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
