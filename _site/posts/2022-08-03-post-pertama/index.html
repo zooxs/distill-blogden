@@ -2451,6 +2451,13 @@ d-appendix d-footnote-list a.footnote-backlink {
 
 <div class="d-article">
 <p>Ini post pertama.</p>
+<p>Contoh notasi persamaan matematis <span
+class="math display">\[\begin{align}
+\sum F &amp;= \sum m \times a\\
+\sum F_x &amp;= \sum m \times a_x\\
+\sum F_y &amp;= \sum m \times a_y\\
+\theta &amp;= \frac{\sum F_y}{\sum F_x}
+\end{align}\]</span></p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
@@ -2460,6 +2467,15 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
 <div class="d-appendix">
 </div>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->

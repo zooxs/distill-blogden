@@ -14,3 +14,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Ini post pertama.
+
+Contoh notasi persamaan matematis
+\begin{align}
+\sum F &= \sum m \times a\\
+\sum F_x &= \sum m \times a_x\\
+\sum F_y &= \sum m \times a_y\\
+\theta &= \frac{\sum F_y}{\sum F_x}
+\end{align}

@@ -10,10 +10,15 @@ output:
   distill::distill_article:
     self_contained: false
 bibliography: ../../ref.bib
+preview: ../../img_parrent/linux.jpg
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r echo=FALSE, out.width='100%', fig.link="https://www.computerbild.de/artikel/cb-Tipps-Software-Linux-statt-Windows-11-Diese-Distribution-zentriert-Startbutton-und-Symbole-ebenfalls-30722397.html"}
+knitr::include_graphics('../../img_parrent/linux.jpg')
 ```
 
 Hampir 2 tahun yang lalu saya memutuskan untuk berpindah dari Windows ke sistem operasi berbasis Linux seperti *Ubuntu* atau *Manjaro*. Keputusan ini didasari karena kondisi *device* yang tidak memungkinkan untuk digunakan sebagai *daily driver* karena keterbatasan spesifikasi *device*. Usia *device* yang hampir mencapai masa layannya disertai keterbatasan dalam pilihan *upgrade* bagian *device* menjadi alasan utama, di lain sisi harga lisensi Windows 10 yang termasuk tidak murah ikut menjadi bahan pertimbangan kala itu. Setelah mencari beberapa solusi, akhirnya saya memutuskan untuk berpindah ke sistem operasi berbasis Linux karena dapat dijalankan pada device dengan spesifikasi *low-end* serta lisensi yang bersifat *free* dan *open source*. Selama menggunakan Linux berbagai pengalaman sudah saya alami mulai dari adaptasi sistem folder yang berbeda dengan Windows, pembiasaan menggunakan *Command Line Interface* (CLI), *troubleshooting* jika terjadi masalah hingga nge-*custom* tampilan distro yang saya gunakan agar terlihat lebih menarik dan nyaman untuk dipakai. Sebagai *daily driver*, Linux mampu memenuhi hampir seluruh kebutuhan saya sebagai mahasiswa kala itu. Ketersediaan alternatif aplikasi untuk kebutuhan pengolahan dokumen seperti *Libreoffice* cukup membantu dalam menyelesaikan tugas-tugas perkuliahan. *Compatible* terhadap berbagai bahasa pemrograman menjadi kelebihan tersendiri yang turut memudahkan aktivitas saya selama mengerjakan tugas tertentu. Selain itu ada beberapa alasan lainnya Linux cocok digunakan sebagai *daily driver*, di antaranya:
