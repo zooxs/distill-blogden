@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\nIni post pertama.\nContoh notasi persamaan matematis \\[\\begin{align}\n\\sum F &= \\sum m \\times a\\\\\n\\sum F_x &= \\sum m \\times a_x\\\\\n\\sum F_y &= \\sum m \\times a_y\\\\\n\\theta &= \\frac{\\sum F_y}{\\sum F_x}\n\\end{align}\\]\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-08-06T01:31:03+07:00",
+    "last_modified": "2022-08-06T01:42:13+07:00",
     "input_file": {}
   }
 ]
