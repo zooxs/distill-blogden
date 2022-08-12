@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-08-12-bahasa-python-alasannya-layak-untuk-dipelajari/",
+    "title": "Bahasa Python: Alasannya Layak untuk Dipelajari",
+    "description": "Alasan Python layak untuk dipelajari",
+    "author": [
+      {
+        "name": "Pandu Mulya Muhammad Syah",
+        "url": {}
+      }
+    ],
+    "date": "2022-08-12",
+    "categories": [],
+    "contents": "\nPengenalan Python\nPython merupakan salah satu bahasa pemrograman yang\npopuler dalam dekade belakangan ini. Bahasa yang dibuat oleh\nGuido Van Rossum pada tahun 1991 ini berfokus pada\ncode readability (keterbacaan program) yang memberikan\nkemudahan kepada pengguna untuk belajar dan mengembangkannya (“Python Language Advantages and\nApplications” 2017). Hal ini didukung karena Python\ntermasuk ke dalam high-level language (memiliki syntax\natau aturan penulisan program yang mirip seperti Bahasa Ingris:\nprint, import, for i in range(5),\nif 3 < 4:..., dll.) dan interpreted language\n(cenderung lebih fleksibel yang menjadikan pengguna lebih leluasa dalam\nmembuat sebuah program) (“Isaac Computer Science,” n.d.; “Python\nLanguage Advantages and Applications”\n2017).\nPenggunaan Python dalam\ndunia indsutri\nAlasan Python layak untuk\ndipelajari\nKesimpulan\n\n\n\n“Isaac Computer Science.” n.d.\nhttps://isaaccomputerscience.org/concepts/sysproglanghighlevel?examBoard=all&stage=all.\n\n\n“Python Language Advantages and Applications.”\n2017.\nhttps://www.geeksforgeeks.org/python-language-advantages-applications/?ref=lbp.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-08-12T22:39:08+07:00",
+    "input_file": "bahasa-python-alasannya-layak-untuk-dipelajari.knit.md"
+  },
+  {
     "path": "posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver/",
     "title": "5 Alasan Menggunakan Linux Sebagai Daily Driver",
     "description": "Alasan menggunakan Linux sebagai Daily Driver",

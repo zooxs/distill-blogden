@@ -1,0 +1,33 @@
+---
+title: "Bahasa Python: Alasannya Layak untuk Dipelajari"
+description: |
+  Alasan Python layak untuk dipelajari
+author:
+  - name: Pandu Mulya Muhammad Syah
+    url: {}
+date: 2022-08-12
+output:
+  distill::distill_article:
+    self_contained: false
+bibliography: ../../ref.bib
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Pengenalan Python
+**Python** merupakan salah satu bahasa pemrograman yang populer dalam dekade belakangan ini. Bahasa yang dibuat oleh **Guido Van Rossum** pada tahun 1991 ini berfokus pada *code readability* (keterbacaan program) yang memberikan kemudahan kepada pengguna untuk belajar dan mengembangkannya [@2017Python]. Hal ini didukung karena Python termasuk ke dalam *high-level language* (memiliki *syntax* atau aturan penulisan program yang mirip seperti Bahasa Ingris: `print`, `import`, `for i in range(5)`, `if 3 < 4:...`, dll.) dan *interpreted language* (cenderung lebih fleksibel yang menjadikan pengguna lebih leluasa dalam membuat sebuah program) [@Isaac; @2017Python].
+
+
+## Penggunaan Python dalam dunia indsutri
+
+
+
+## Alasan Python layak untuk dipelajari
+
+
+
+## Kesimpulan
+
