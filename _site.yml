@@ -7,8 +7,6 @@ theme: theme.css
 navbar:
   logo: img_parrent/blogden.png
   right:
-    - text: "Beranda"
-      href: index.html
     - text: "Blog"
       href: blog.html
     - text: "Tentang Saya"
@@ -19,3 +17,5 @@ collections:
   posts:
     disqus: BlogDen
     share: [twitter, linkedin]
+    
+    

@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blog Den"
 description: |
     Media berbagi informasi menarik terkait pengalaman pribadi selama belajar *prgoramming*, sistem operasi *linux*, fisika dasar dan kalkulus.
 listing: posts
