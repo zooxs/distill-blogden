@@ -6,13 +6,19 @@
     <atom:link href="https://blogden.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
     <description>BlogDen
 </description>
+    <image>
+      <title>BlogDen</title>
+      <url>https://blogden.netlify.app/img_parrent/blogden.png</url>
+      <link>https://blogden.netlify.app/</link>
+    </image>
     <generator>Distill</generator>
     <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Bahasa Python -- Alasannya Layak untuk Dipelajari</title>
+      <title>Bahasa Python - Alasannya Layak untuk Dipelajari</title>
       <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
       <link>https://blogden.netlify.app/posts/2022-08-12-bahasa-python-alasannya-layak-untuk-dipelajari</link>
       <description>Alasan Python layak untuk dipelajari</description>
+      <category>Python</category>
       <guid>https://blogden.netlify.app/posts/2022-08-12-bahasa-python-alasannya-layak-untuk-dipelajari</guid>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <media:content url="https://blogden.netlify.app/posts/2022-08-12-bahasa-python-alasannya-layak-untuk-dipelajari/../../img_parrent/python_bg.jpeg" medium="image" type="image/jpeg"/>
@@ -22,6 +28,7 @@
       <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
       <link>https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver</link>
       <description>Alasan menggunakan Linux sebagai Daily Driver</description>
+      <category>Linux</category>
       <guid>https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver</guid>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       <media:content url="https://blogden.netlify.app/posts/2022-08-04-5-alasan-menggunakan-linux-sebagai-daily-driver/../../img_parrent/linux.jpg" medium="image" type="image/jpeg"/>

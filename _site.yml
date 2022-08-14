@@ -1,5 +1,6 @@
 name: "BlogDen"
 title: "BlogDen"
+favicon: img_parrent/blogden.png
 description: |
   BlogDen
 output_dir: "_site"
@@ -15,7 +16,6 @@ output: distill::distill_article
 base_url: https://blogden.netlify.app/
 collections:
   posts:
-    disqus: BlogDen
     share: [twitter, linkedin]
     
     
