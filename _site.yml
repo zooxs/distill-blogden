@@ -4,7 +4,6 @@ favicon: img_parrent/blogden.png
 description: |
   BlogDen
 output_dir: "_site"
-theme: theme.css
 navbar:
   logo: img_parrent/blogden.png
   right:

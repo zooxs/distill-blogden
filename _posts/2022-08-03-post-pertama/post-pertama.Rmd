@@ -22,3 +22,8 @@ Contoh notasi persamaan matematis
 \sum F_y &= \sum m \times a_y\\
 \theta &= \frac{\sum F_y}{\sum F_x}
 \end{align}
+
+```{python, echo=TRUE, eval=FALSE}
+print('post pertama')
+x = [i for i in range(10)]
+```

@@ -6,22 +6,21 @@
       "description": "Berisi informasi menarik terkait **Programming**, **Linux**, **Fisika Dasar** maupun **Kalkulus**.",
       "author": [],
       "contents": "\nSiapa saya\nSeorang pelajar yang tertarik belajar hal-hal baru\nMateri yang saya gemari\nProgramming (Python)\nHal menarik terkait sistem operasi Linux\nMateri Fisika Dasar\nMateri Kalkulus\nMedia lain yang saya gunakan\n\n\n\n",
-      "last_modified": "2022-08-19T19:04:26+07:00"
+      "last_modified": "2022-09-21T01:29:08+07:00"
     },
     {
       "path": "blog.html",
       "title": "Blog Den",
-      "description": "Media berbagi informasi menarik terkait pengalaman pribadi selama belajar *prgoramming*, sistem operasi *linux*, fisika dasar dan kalkulus.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-19T19:04:27+07:00"
+      "last_modified": "2022-09-21T01:29:09+07:00"
     },
     {
       "path": "index.html",
       "title": "Pandu Mulya Muhammad Syah",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          BlogDen\n          \n          \n          Blog\n          Tentang Saya\n          ☰\n          \n          \n      \n        \n          \n            Pandu Mulya Muhammad Syah\n          \n          \n            \n              Seorang pelajar yang memiliki ketertarikan di bidang\n              Fisika Dasar, Kalkulus,\n              programming dan sistem operasi berbasis\n              linux. Berantusias berbagi pengalaman\n              kepada pembaca.\n            \n            \n              Seorang pelajar yang memiliki ketertarikan di bidang\n              Fisika Dasar, Kalkulus,\n              programming dan sistem operasi berbasis\n              linux. Berantusias berbagi pengalaman\n              kepada pembaca.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-08-19T19:04:27+07:00"
+      "last_modified": "2022-09-21T01:29:09+07:00"
     }
   ],
   "collections": ["posts/posts.json"]
