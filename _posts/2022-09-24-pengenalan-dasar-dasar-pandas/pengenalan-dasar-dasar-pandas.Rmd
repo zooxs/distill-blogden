@@ -97,7 +97,7 @@ print(f'Nilai mean: {df.age.mean()}')
 print(f'Nilai std: {df.age.std()}')
 ```
 
-## Nilai kauntil
+## Nilai kuantil
 Nilai kuantil dapat ditentukan dengan metode `.quantile()`. Q10, Q20 maupun Q30 bisa diketahui dengan memasukkan parameter pada metode `.quantile(.10)`, `.quantile(.20)` dan `.quantile(.30)` untuk masing-masing nilai kuantil yang ingin dicari.
 
 ```{python}

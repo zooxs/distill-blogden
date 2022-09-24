@@ -25,6 +25,16 @@
       <media:content url="https://blogden.netlify.app/posts/2022-09-24-pengenalan-dasar-dasar-pandas/../../img_parrent/pandas_logo.png" medium="image" type="image/png" width="1200" height="485"/>
     </item>
     <item>
+      <title>Pengenalan Pandas DataFrame</title>
+      <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
+      <link>https://blogden.netlify.app/posts/2022-09-24-pengenalan-pandas-dataframe</link>
+      <description>Membuat Pandas Dataframe</description>
+      <category>Python</category>
+      <category>Pandas</category>
+      <guid>https://blogden.netlify.app/posts/2022-09-24-pengenalan-pandas-dataframe</guid>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Python Environtmen - Media Utama dalam Pengembangan Program Python</title>
       <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
       <link>https://blogden.netlify.app/posts/2022-08-19-python-environtmen-media-utama-dalam-pengembangan-program-python</link>
