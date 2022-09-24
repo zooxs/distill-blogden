@@ -12,16 +12,17 @@
       <link>https://blogden.netlify.app/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Pengenalan Dasar-dasar Pandas</title>
       <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
       <link>https://blogden.netlify.app/posts/2022-09-24-pengenalan-dasar-dasar-pandas</link>
-      <description>Pengenalan Dasar-dasar Pandas</description>
+      <description/>
       <category>Python</category>
       <category>Pandas</category>
       <guid>https://blogden.netlify.app/posts/2022-09-24-pengenalan-dasar-dasar-pandas</guid>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://blogden.netlify.app/posts/2022-09-24-pengenalan-dasar-dasar-pandas/../../img_parrent/pandas_logo.png" medium="image" type="image/png" width="1200" height="485"/>
     </item>
     <item>
       <title>Python Environtmen - Media Utama dalam Pengembangan Program Python</title>

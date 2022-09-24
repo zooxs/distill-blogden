@@ -1,7 +1,6 @@
 ---
 title: "Pengenalan Dasar-dasar Pandas"
-description: |
-  
+description: ""  
 author:
   - name: Pandu Mulya Muhammad Syah
 date: 2022-09-24
@@ -10,10 +9,15 @@ output:
   distill::distill_article:
     self_contained: false
     toc: true
+preview: ../../img_parrent/pandas_logo.png
 ---
 
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics("../../img_parrent/pandas_logo.png")
+```
+
 # Pendahuluan
-`Pandas` merupapkan salah satu *library* Python yang umum digunakan untuk keperluan *data analysis* karena memiliki banyak fitur yang memudahkan pengguna untuk mengolah data. Terdapat beberapa fitur umum statistik seperti *mean()*, *sum()*, *max()*, *min()*, dan *quantile()* sehingga pengguna dapat dengan mudah mendapatkan hasil nilainya. Pada artikel ini akan dibahas secara ringkas penggunaan `Pandas` pada *dataset titanic* dari *library* `Seaborn`.
+`Pandas` merupapkan salah satu *library* Python yang umum digunakan untuk keperluan *data analysis* karena memiliki banyak fitur yang memudahkan pengguna untuk mengolah data. Terdapat beberapa fitur umum statistik seperti `mean()`, `sum()`, `max()`, `min()`, dan `quantile()` sehingga pengguna dapat dengan mudah mendapatkan hasil nilainya. Pada artikel ini akan dibahas secara ringkas penggunaan `Pandas` pada *dataset titanic* dari *library* `Seaborn`.
 
 # Memuat Dataset
 
@@ -46,7 +50,7 @@ df.columns
 
 ## Tipe data kolom
 
-Tipe data setiap kolom dapat diketahui menggunakan atribut `.columns` pada dataset.
+Tipe data setiap kolom dapat diketahui menggunakan atribut `.dtypes` pada dataset.
 
 ```{python}
 df.dtypes
@@ -56,7 +60,7 @@ Dari hasil di atas terlihat beberapa tipe data seperti `int64` untuk bilangan bu
 
 ## Mengakses data pada kolom tertentu
 
-Terdapat dua cara umum untul memanggil data pada kolom tertentu, menggunakan nama kolom sebagai indeks dan menggunakan nama kolom sebagai atribut.
+Terdapat dua cara umum untuk memanggil data pada kolom tertentu, menggunakan nama kolom sebagai indeks dan menggunakan nama kolom sebagai atribut.
 
 1. Nama kolom sebagai indeks
 
@@ -86,7 +90,7 @@ print(f'Nilai max: {df.age.max()}')
 ```
 
 ## Nilai rata-rata dan standar deviasi
-Nilai tersebut dapat ditentukan dengan metode `.meand()` dan `.std()`.
+Nilai tersebut dapat ditentukan dengan metode `.mean()` dan `.std()`.
 
 ```{python}
 print(f'Nilai mean: {df.age.mean()}')
@@ -94,7 +98,7 @@ print(f'Nilai std: {df.age.std()}')
 ```
 
 ## Nilai kauntil
-Nilai kuantil dapat ditentukan dengan metode `.quantile()`. Q10, Q20 maupun Q30 bisa diketahui dengan memasukkan parameter pada metode `.quatile(.10)`, `.quatile(.20)` dan `.quatile(.30)` untuk masing-masing nilai kuantil yang ingin dicari.
+Nilai kuantil dapat ditentukan dengan metode `.quantile()`. Q10, Q20 maupun Q30 bisa diketahui dengan memasukkan parameter pada metode `.quantile(.10)`, `.quantile(.20)` dan `.quantile(.30)` untuk masing-masing nilai kuantil yang ingin dicari.
 
 ```{python}
 print(f'Nilai Q10: {df.age.quantile(.10)}')
