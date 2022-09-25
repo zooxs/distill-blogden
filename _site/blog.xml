@@ -14,6 +14,16 @@
     <generator>Distill</generator>
     <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Filter Data Menggunakan Pandas</title>
+      <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
+      <link>https://blogden.netlify.app/posts/2022-09-25-filter-data-menggunakan-pandas</link>
+      <description>Cara yang umum digunakan dalam memfilter data menggunakan Pandas.</description>
+      <category>Python</category>
+      <category>Pandas</category>
+      <guid>https://blogden.netlify.app/posts/2022-09-25-filter-data-menggunakan-pandas</guid>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pengenalan Dasar-dasar Pandas</title>
       <dc:creator>Pandu Mulya Muhammad Syah</dc:creator>
       <link>https://blogden.netlify.app/posts/2022-09-24-pengenalan-dasar-dasar-pandas</link>
@@ -42,7 +52,7 @@
       <category>Python</category>
       <category>Pandas</category>
       <guid>https://blogden.netlify.app/posts/2022-09-24-pengolahan-data-menggunakan-pandas-part-1</guid>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Python Environtmen - Media Utama dalam Pengembangan Program Python</title>
