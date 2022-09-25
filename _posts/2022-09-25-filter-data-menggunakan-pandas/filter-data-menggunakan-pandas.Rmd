@@ -10,7 +10,12 @@ output:
   distill::distill_article:
     self_contained: false
     toc: true
+preview: ../../img_parrent/pandas_tb_filter.png
 ---
+
+```{r echo=FALSE, out.width='100%'}
+knitr::include_graphics("../../img_parrent/pandas_tb_filter.png")
+```
 
 Penyaringan (*filter*) data merupakan salah satu langkah yang sering dilakukan dalam pemrosesan suatu data. Pandas memiliki beberapa cara dalam melakukan penyaringan di antaranya adalah `logical_operator`, metode `loc`, `iloc` dan `query`. Data yang diguanakan pada contoh pembahasan di bawah ini merupakan data *dummy* berupa nilai hasil ulangan dari beberapa mata pelajaran.
 
